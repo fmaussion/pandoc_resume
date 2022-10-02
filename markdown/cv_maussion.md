@@ -165,20 +165,27 @@ For a full list of past classes and student evaluations, visit [my personal webs
 
 **24 completed master and bachelor theses.** For a full list, visit [my personal website](https://fabienmaussion.info/team/).
 
+## Trivia
+
+- **Languages**: French (first language), German (mother tongue), English (fluent), Spanish (fluent).
+- **Interests**: music ♫ (drums and piano), outdoors.
+
 ## List of publications
 
 *43 peer-reviewed publications, h-index 26 ([google scholar](https://scholar.google.com/citations?user=tTpQiSgAAAAJ&hl=fr) September 2022)*
 
-1. Windnagel, A., Hock, R., **Maussion, F.**, Paul, F., Rastner, P., Raup, B. and Zemp, M.: Which glaciers are the largest in the world?, J. Glaciol., 1–10, doi:[10.1017/jog.2022.61](https://doi.org/10.1017/jog.2022.61), 2022.
-1. Li, F., **Maussion, F.**, Wu, G., Chen, W., Yu, Z., Li, Y. and Liu, G.: Influence of glacier inventories on ice thickness estimates and future glacier change projections in the Tian Shan range, Central Asia, J. Glaciol., 1–15, doi:[10.1017/jog.2022.60](https://doi.org/10.1017/jog.2022.60), 2022.
-1. Hänchen, L., Klein, C., **Maussion, F.**, Gurgiser, W., Calanca, P. and Wohlfahrt, G.: *Widespread greening suggests increased dry-season plant water availability in the Rio Santa valley, Peruvian Andes*, Earth Syst. Dyn., 13(1), 595–611, doi:[10.5194/esd-13-595-2022](https://doi.org/10.5194/esd-13-595-2022), 2022.
+*Publications written by a student under my supervision are indicated with a* *
+
+1. Windnagel, A., Hock, R., **Maussion, F.**, Paul, F., Rastner, P., Raup, B. and Zemp, M.: *Which glaciers are the largest in the world?*, J. Glaciol., 1–10, doi:[10.1017/jog.2022.61](https://doi.org/10.1017/jog.2022.61), 2022.
+1. \*Li, F., **Maussion, F.**, Wu, G., Chen, W., Yu, Z., Li, Y. and Liu, G.: *Influence of glacier inventories on ice thickness estimates and future glacier change projections in the Tian Shan range, Central Asia*, J. Glaciol., 1–15, doi:[10.1017/jog.2022.60](https://doi.org/10.1017/jog.2022.60), 2022.
+1. \*Hänchen, L., Klein, C., **Maussion, F.**, Gurgiser, W., Calanca, P. and Wohlfahrt, G.: *Widespread greening suggests increased dry-season plant water availability in the Rio Santa valley, Peruvian Andes*, Earth Syst. Dyn., 13(1), 595–611, doi:[10.5194/esd-13-595-2022](https://doi.org/10.5194/esd-13-595-2022), 2022.
 1. Furian, W., **Maussion, F.** and Schneider, C.: *Projected 21st-Century Glacial Lake Evolution in High Mountain Asia*, Front. Earth Sci., 10, doi:[10.3389/feart.2022.821798](https://doi.org/10.3389/feart.2022.821798), 2022.
 1. Azam, M. F., Kargel, J. S., Shea, J. M., Nepal, S., Haritashya, U. K., Srivastava, S., **Maussion, F.**, Qazi, N., Chevallier, P., Dimri, A. P., Kulkarni, A. V, Cogley, J. G. and Bahuguna, I.: *Glaciohydrology of the Himalaya-Karakoram*, Science (80-. )., 373(6557), eabf3668, doi:[10.1126/science.abf3668](https://doi.org/10.1126/science.abf3668), 2021.
 1. Edwards, T. L., Nowicki, S., Marzeion, B., Hock, R., Goelzer, H., Seroussi, H., Jourdain, N. C., Slater, D. A., Turner, F. E., Smith, C. J., McKenna, C. M., Simon, E., Abe-Ouchi, A., Gregory, J. M., Larour, E., Lipscomb, W. H., Payne, A. J., Shepherd, A., Agosta, C., Alexander, P., Albrecht, T., Anderson, B., Asay-Davis, X., Aschwanden, A., Barthel, A., Bliss, A., Calov, R., Chambers, C., Champollion, N., Choi, Y., Cullather, R., Cuzzone, J., Dumas, C., Felikson, D., Fettweis, X., Fujita, K., Galton-Fenzi, B. K., Gladstone, R., Golledge, N. R., Greve, R., Hattermann, T., Hoffman, M. J., Humbert, A., Huss, M., Huybrechts, P., Immerzeel, W., Kleiner, T., Kraaijenbrink, P., Le clec’h, S., Lee, V., Leguy, G. R., Little, C. M., Lowry, D. P., Malles, J.-H., Martin, D. F., **Maussion, F.**, Morlighem, M., O’Neill, J. F., Nias, I., Pattyn, F., Pelle, T., Price, S. F., Quiquet, A., Radić, V., Reese, R., Rounce, D. R., Rückamp, M., Sakai, A., Shafer, C., Schlegel, N.-J., Shannon, S., Smith, R. S., Straneo, F., Sun, S., Tarasov, L., Trusel, L. D., Van Breedam, J., van de Wal, R., van den Broeke, M., Winkelmann, R., Zekollari, H., Zhao, C., Zhang, T. and Zwinger, T.: *Projected land ice contributions to twenty-first-century sea level rise*, Nature, 593(7857), 74–82, doi:[10.1038/s41586-021-03302-y](https://doi.org/10.1038/s41586-021-03302-y), 2021.
-1. Eis, J., van der Laan, L., **Maussion, F.** and Marzeion, B.: *Reconstruction of Past Glacier Changes with an Ice-Flow Glacier Model: Proof of Concept and Validation*, Front. Earth Sci., 9(March), 1–16, doi:[10.3389/feart.2021.595755](https://doi.org/10.3389/feart.2021.595755), 2021.
+1. \*Eis, J., van der Laan, L., **Maussion, F.** and Marzeion, B.: *Reconstruction of Past Glacier Changes with an Ice-Flow Glacier Model: Proof of Concept and Validation*, Front. Earth Sci., 9(March), 1–16, doi:[10.3389/feart.2021.595755](https://doi.org/10.3389/feart.2021.595755), 2021.
 1. Rounce, D. R., Hock, R., McNabb, R. W., Millan, R., Sommer, C., Braun, M. H., Malz, P., **Maussion, F.**, Mouginot, J., Seehaus, T. C. and Shean, D. E.: *Distributed global debris thickness estimates reveal debris significantly impacts glacier mass balance*, Geophys. Res. Lett., doi:[10.1029/2020GL091311](https://doi.org/10.1029/2020GL091311), 2021.
-1. Recinos, B., **Maussion, F.**, Noël, B., Möller, M. and Marzeion, B.: *Calibration of a frontal ablation parameterisation applied to Greenland’s peripheral calving glaciers*, J. Glaciol., 1–13, doi:[10.1017/jog.2021.63](https://doi.org/10.1017/jog.2021.63), 2021.
-1. Schuster, L., **Maussion, F.**, Langhamer, L. and Moseley, G. E.: *Lagrangian detection of precipitation moisture sources
+1. \*Recinos, B., **Maussion, F.**, Noël, B., Möller, M. and Marzeion, B.: *Calibration of a frontal ablation parameterisation applied to Greenland’s peripheral calving glaciers*, J. Glaciol., 1–13, doi:[10.1017/jog.2021.63](https://doi.org/10.1017/jog.2021.63), 2021.
+1. \*Schuster, L., **Maussion, F.**, Langhamer, L. and Moseley, G. E.: *Lagrangian detection of precipitation moisture sources
    for an arid region in northeast Greenland: relations to the North Atlantic Oscillation, sea ice cover, and temporal
    trends from 1979 to 2017*, Weather Clim. Dyn., 2(1), 1–17, doi:[10.5194/wcd-2-1-2021](https://doi.org/10.5194/wcd-2-1-2021), 2021.
 1. Marzeion, B., Hock, R., Anderson, B., Bliss, A., Champollion, N., Fujita, K., Huss, M., Immerzeel, W., Kraaijenbrink,
@@ -190,7 +197,7 @@ For a full list of past classes and student evaluations, visit [my personal webs
 1. Zemp, M., Huss, M., Thibert, E., Eckert, N., McNabb, R., Huber, J., Barandun, M., Machguth, H., Nussbaumer, S. U.,
    Gärtner-Roer, I., Thomson, L., Paul, F., **Maussion, F.**, Kutuzov, S. and Cogley, J. G.: *Global glacier mass changes and
    their contributions to sea-level rise from 1961 to 2016*, Nature, 568(7752), 382–386, doi:[10.1038/s41586-019-1071-0](https://doi.org/10.1038/s41586-019-1071-0), 2019.
-1. Recinos, B., **Maussion, F.**, Rothenpieler, T. and Marzeion, B.: *Impact of frontal ablation on the ice thickness
+1. \*Recinos, B., **Maussion, F.**, Rothenpieler, T. and Marzeion, B.: *Impact of frontal ablation on the ice thickness
    estimation of marine-terminating glaciers in Alaska*, Cryosph., 13(10), 2657–2672, doi:[10.5194/tc-13-2657-2019](https://doi.org/10.5194/tc-13-2657-2019), 2019.
 1. **Maussion, F.**, Butenko, A., Champollion, N., Dusch, M., Eis, J., Fourteau, K., Gregor, P., Jarosch, A. H., Landmann,
    J., Oesterle, F., Recinos, B., Rothenpieler, T., Vlug, A., Wild, C. T. and Marzeion, B.: *The Open Global Glacier
@@ -198,9 +205,9 @@ For a full list of past classes and student evaluations, visit [my personal webs
 1. Horak, J., Hofer, M., **Maussion, F.**, Gutmann, E., Gohm, A. and Rotach, M. W.: *Assessing the added value of the
    Intermediate Complexity Atmospheric Research (ICAR) model for precipitation in complex topography*, Hydrol. Earth Syst.
    Sci., 23(6), 2715–2734, doi:[10.5194/hess-23-2715-2019](https://doi.org/10.5194/hess-23-2715-2019), 2019.
-1. Eis, J., **Maussion, F.** and Marzeion, B.: *Initialization of a global glacier model based on present-day glacier geometry
+1. \*Eis, J., **Maussion, F.** and Marzeion, B.: *Initialization of a global glacier model based on present-day glacier geometry
    and past climate information: an ensemble approach*, Cryosph., 13(12), 3317–3335, doi:[10.5194/tc-13-3317-2019](https://doi.org/10.5194/tc-13-3317-2019), 2019.
-1. Zolles, T., **Maussion, F.**, Galos, S. P., Gurgiser, W. and Nicholson, L.: *Robust uncertainty assessment of the
+1. \*Zolles, T., **Maussion, F.**, Galos, S. P., Gurgiser, W. and Nicholson, L.: *Robust uncertainty assessment of the
    spatio-temporal transferability of glacier mass and energy balance models*, Cryosph., 13(2), 469–489, doi:[
    10.5194/tc-13-469-2019](https://doi.org/10.5194/tc-13-469-2019), 2019.
 1. Farinotti, D., Huss, M., Fürst, J. J., Landmann, J., Machguth, H., **Maussion, F.** and Pandit, A.: *A consensus estimate
