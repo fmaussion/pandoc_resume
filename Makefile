@@ -26,6 +26,7 @@ html: init
 			--from markdown --to html \
 			--output $(OUT_DIR)/$$FILE_NAME.html $$f \
 			--metadata pagetitle=$$FILE_NAME;\
+		python add_plausible.py $(OUT_DIR)/$$FILE_NAME.html; \
 	done
 
 docx: init

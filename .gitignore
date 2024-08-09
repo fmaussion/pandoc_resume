@@ -2,3 +2,4 @@
 *.swo
 *.swp
 output/
+.DS_Store
